@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: 3.11
 
-      - name: Install dependencies
+      - name: Install documentation dependencies
         run: |
           python -m pip install -U pip
           pip install -r docs/requirements.txt
@@ -29,7 +29,7 @@ jobs:
         run: |
           sphinx-build -W -b html docs/ build
 
-      - name: Upload artifact
+      - name: Upload documentation artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: build
