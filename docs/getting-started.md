@@ -56,7 +56,7 @@ def sorting_algorithm(x):
 With Granite.Code it is possible to make code changes by giving editing instructions to the Granite models. An easy way to try this is to edit a code section:
 
 1. In the editor, highlight the code you want to change.
-2. Use the **Command+E** / **Ctrl+E** keyboard shortcut to add the code section to the prompt and switch to edit mode.
+2. Use the **Command+I** / **Ctrl+I** keyboard shortcut to add the code section to the prompt and switch to edit mode.
 3. Describe how you want the code to be changed, then press return or click the **⏎ Enter** button.
 
 You can try this with the code section below:
