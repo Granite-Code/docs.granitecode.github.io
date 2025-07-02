@@ -2,7 +2,7 @@
 
 This page provides information on how to get the most out of Granite.Code. It covers best practices for getting accurate and helpful chat responses, as well as supplementary options which make Granite.Code's features even more powerful.
 
-Before you read this guide, you should be familiar with the main Granite.Code features, which are described in the [getting started tutorial](FIXME).
+Before you read this guide, you should be familiar with the main Granite.Code features, which are described in the [getting started tutorial](https://docs.granitecode.github.io/getting-started).
 
 ## Asking effective questions
 
