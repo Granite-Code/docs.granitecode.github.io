@@ -29,6 +29,9 @@ jobs:
         run: |
           sphinx-build -W -b html docs/ build
 
+      - name: Create CNAME file
+        run: echo "docs.granitecode.ai" > build/CNAME
+
       - name: Upload documentation artifact
         uses: actions/upload-pages-artifact@v3
         with:
