@@ -19,11 +19,13 @@ To use the chat, either click on the "Ask anything" prompt, or use the **Command
 
 The Granite.Code assistant can answer a range of question types, including general coding knowledge questions, advice on particular coding problems, learning best practices, and generating example code. Here are some example questions that you can try out:
 
-1. TODO: general coding knowledge question. What is an X in Y?
-2. TODO: problem solving question. I am doing X. How do I do Y?
-3. TODO: best practices question. I am writing X. How do I make sure that it is performant?
+1. What is an index in SQL and why is it important?
+2. I have a CSV with the format: student_id, subject, test_score. How do I write a Python script to show average score per subject?
+3. In React, I want to get information from the server when the component is created. How do I do that?
 
-Once you have asked a question, you can ask follow-up questions about the model's response. For example, TODO.
+Once you have asked a question, you can ask follow-up questions about the model's response. For example:
+
+ How can I handle loading and error states while fetching the data from the server?
 
 ## Ask about a code section
 
