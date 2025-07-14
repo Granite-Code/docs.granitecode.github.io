@@ -8,7 +8,7 @@ Once you have installed Granite.Code, it is necessary to get the latest Granite 
 
 If you need to restart the setup wizard for any reason, it can be launched from the VS Code command palette using the `Granite.Code: Setup Granite as code assistant` command.
 
-Once you have set up Granite.Code, we recommend that you try out the [getting started tutorial](https://docs.granitecode.github.io/getting-started).
+Once you have set up Granite.Code, we recommend that you try out the [getting started tutorial](getting-started).
 
 ## System requirements
 
