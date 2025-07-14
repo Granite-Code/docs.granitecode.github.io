@@ -95,4 +95,4 @@ Let's use autocompletion to write assertions for the sorting algorithms from the
 
 ## Next steps
 
-This guide has introduced some essential Granite.Code features. However, there is much more to Granite.Code, including techniques which will allow you to get the most out of the features that have just been introduced. When you're ready, head over to the [best practices guide](https://docs.granitecode.github.io/best-practices) to learn more.
+This guide has introduced some essential Granite.Code features. However, there is much more to Granite.Code, including techniques which will allow you to get the most out of the features that have just been introduced. When you're ready, head over to the [best practices guide](best-practices) to learn more.

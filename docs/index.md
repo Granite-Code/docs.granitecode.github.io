@@ -4,7 +4,7 @@
 
 [Granite.Code](https://granitecode.ai/) is an coding assistant for VS Code. It makes use of the [Granite family of AI models](https://www.ibm.com/granite) to provide a high quality AI assistant experience, while providing full control over privacy and information sharing. To achieve this, Granite.Code downloads and runs Granite models locally, so that no data is shared with other parties.
 
-Granite.Code can be installed as a VS Code extension: See [setup](https://docs.granitecode.github.io/setup) to get started.
+Granite.Code can be installed as a VS Code extension: See [setup](setup) to get started.
 
 ## Get in Touch
 

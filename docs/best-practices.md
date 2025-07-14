@@ -2,7 +2,7 @@
 
 This page provides information on how to get the most out of Granite.Code. It covers best practices for getting accurate and helpful chat responses, as well as supplementary options which make Granite.Code's features even more powerful.
 
-Before you read this guide, you should be familiar with the main Granite.Code features, which are described in the [getting started tutorial](https://docs.granitecode.github.io/getting-started).
+Before you read this guide, you should be familiar with the main Granite.Code features, which are described in the [getting started tutorial](getting-started).
 
 ## Asking effective questions
 
@@ -53,7 +53,7 @@ For more information on the docs context provider, see the [Continue documentati
 
 ## Making different types of edits
 
-Granite.Code's edit feature was introduced in the [getting started tutorial](https://docs.granitecode.github.io/getting-started), where we saw how code can be easily made more readable. There are many other types of changes that can be made with Granite.Code. Some of these are available in the Granite.Code context menu in the code editor. This includes actions to:
+Granite.Code's edit feature was introduced in the [getting started tutorial](getting-started), where we saw how code can be easily made more readable. There are many other types of changes that can be made with Granite.Code. Some of these are available in the Granite.Code context menu in the code editor. This includes actions to:
 
 * Fix grammar and spelling mistakes
 * Fix code errors
